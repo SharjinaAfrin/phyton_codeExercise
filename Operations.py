@@ -1,13 +1,9 @@
-# phyton_codeExercise
-print("Hello World")
 
 # summation, subtraction,multiflication,Divisions are same code
-
 firstnumber = 40 
 secondnumber = 79 
 summation = firstnumber + secondnumber
 print("The Result is = " , summation)
-
 
 firstnumber = 40 
 secondnumber = 79 

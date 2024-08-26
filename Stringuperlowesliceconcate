@@ -1,0 +1,37 @@
+
+
+#String   double and single quotes [in String]
+
+strngtest1 = "Bangladesh"
+print("String support Double quote " ,strngtest1)
+
+strngtest2 ='Bangladesh'
+print("String support Single quote in python",strngtest2)
+
+#Slice
+
+slice1 = "Write threeAnimals"
+print( slice1[-12:-4] )
+
+slice2 = "Write threeAnimals"
+print( slice2[2:-4] )
+
+#Concatenation
+
+firstname = "Sharjina"
+lastname = "Afrin"
+name = firstname + lastname
+print(name)
+
+#upercase, Lowercase Converts all characters in a string to uppercase,lowercase
+
+uprcase = "ethnic people"
+print(uprcase.upper()) 
+
+lwrcase = "ETHNIC PEOPLE"
+print(lwrcase.lower()) 
+
+#Split
+
+textsplt = "Write, the, three, animals, name"
+print(textsplt.split(", ")) 
