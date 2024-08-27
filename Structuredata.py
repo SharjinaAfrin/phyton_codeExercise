@@ -10,16 +10,18 @@ print(list2)
 #Tuple
 print('\nTupleExamples')
 thistuple = ("peacock", "parrot", "ostrich")
-print(thistuple[2])
+print(thistuple[1])
 
 #Index
 print('\nIndexExamples')
+
 textindex = ("peacock", "parrot", "ostrich", "Tiger", "Monkey", "polar bear", "lizard")
 print(textindex[3:6])
 
 
 #Dictionary
 print('\nIDictionaryExamples')
+
 animals = {
   "feathers": "peacock",
   "Scales": "lizard",
@@ -30,6 +32,7 @@ print(animals)
 
 #Slicing
 print('\nSlicingExamples')
+
 slice1 = "Write threeAnimals"
 print( slice1[-12:-4] )
 
