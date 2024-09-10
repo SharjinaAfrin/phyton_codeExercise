@@ -92,4 +92,4 @@ if __name__ == "__main__":
     # Forward pass
     output = cnn.forward(sample_image)
 
-    print("CNN Output:", output)
+    print("CNN Output:\n", output)
